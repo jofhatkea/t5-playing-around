@@ -1,15 +1,16 @@
-html>body {
-  background: #bada55;
-  color: blue;
+body {
+	background: blue;
+	color: red;
 }
 li {
-  list-style-type: georgian;
+	list-style-type: disc;
+	font-family: fantasy;
+
 }
 h1 {
   border: 1px solid #000;
   text-align: center;
 }
-
 div {
   border-radius: 50%;
   background: pink;
