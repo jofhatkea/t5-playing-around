@@ -2,10 +2,16 @@ body {
 	background: blue;
 	color: red;
 }
-h1 {
-	text-align: center;
-}
 li {
 	list-style-type: disc;
 	font-family: fantasy;
+
+}
+h1 {
+  border: 1px solid #000;
+  text-align: center;
+}
+div {
+  border-radius: 50%;
+  background: pink;
 }
