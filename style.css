@@ -1,10 +1,11 @@
 body {
-  background: #bada55;
-  color: #c0ffee;
+	background: blue;
+	color: red;
 }
 h1 {
-  text-align: center;
+	text-align: center;
 }
 li {
-  list-style-type: georgian;
+	list-style-type: disc;
+	font-family: fantasy;
 }
